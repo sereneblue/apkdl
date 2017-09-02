@@ -13,7 +13,7 @@ $ pip install apkdl
 
 ```
 $ git clone https://github.com/sereneblue/apkdl
-$ cd fts
+$ cd apkdl
 $ python setup.py install
 ```
 
